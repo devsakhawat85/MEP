@@ -1,0 +1,8 @@
+{
+  "name": "Avi MEP Digital Rebrand",
+  "description": "A sophisticated, editorial-style digital platform showcasing Avi MEP’s professional engineering expertise through high-end design and architectural precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
